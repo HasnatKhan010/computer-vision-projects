@@ -1,25 +1,36 @@
 # Computer Vision Projects (PyTorch)
 
-This repository contains a collection of computer vision projects built using PyTorch. The goal of this repo is to practice and improve deep learning and computer vision skills through hands-on implementations.
+This repository contains my learning and practice work in Computer Vision using PyTorch.
 
-## Projects Included
+The goal is to build strong fundamentals in deep learning by implementing different image classification models step by step.
+
+---
+
+## Projects
 
 ### 1. MNIST Binary Classification (0 vs 1)
 
 * Simple neural network and CNN implementation
-* Dataset: MNIST (filtered to digits 0 and 1)
-* Goal: Practice PyTorch basics and training pipeline
+* Dataset: MNIST (only digits 0 and 1)
+* Focus: PyTorch basics, training loop, evaluation
 
-### 2. MNIST CNN Classifier (Coming Soon)
+---
+
+### 2. MNIST CNN (Coming Soon)
 
 * Full digit classification (0–9)
 * Convolutional Neural Network (CNN)
-* Performance evaluation with accuracy and loss curves
+* Performance evaluation and visualization
+
+---
 
 ### 3. CIFAR-10 Classification (Planned)
 
 * Multi-class image classification
-* More complex dataset with colored images
+* Working with colored images
+* Deeper CNN models
+
+---
 
 ## Tech Stack
 
@@ -29,36 +40,19 @@ This repository contains a collection of computer vision projects built using Py
 * Matplotlib
 * Google Colab
 
-## How to Run
+---
 
-1. Clone the repository
-2. Open notebooks or scripts in Google Colab or Jupyter
-3. Install dependencies:
+## Purpose
 
-   ```bash
-   pip install torch torchvision numpy matplotlib
-   ```
-4. Run the training script or notebook
+This repository is created for:
 
-## Results
+* Practicing deep learning concepts
+* Building CNN-based models
+* Improving coding and ML engineering skills
+* Tracking my learning journey in Computer Vision
 
-Each project folder contains:
+---
 
-* Training logs
-* Model accuracy
-* Sample predictions
-* Saved model weights
+## Notes
 
-## Goal of This Repo
-
-To build a strong foundation in:
-
-* Deep Learning
-* Convolutional Neural Networks
-* Model training workflows
-* Real-world computer vision tasks
-
-## Author
-
-Computer Vision Learning Journey
-
+This repo will be continuously updated with new projects, experiments, and improvements as I progress in deep learning.
