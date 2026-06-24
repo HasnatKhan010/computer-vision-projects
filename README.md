@@ -16,7 +16,7 @@ The goal is to build strong fundamentals in deep learning by implementing differ
 
 ---
 
-### 2. MNIST CNN (Coming Soon)
+### 2. MNIST CNN 
 
 * Full digit classification (0–9)
 * Convolutional Neural Network (CNN)
@@ -24,7 +24,7 @@ The goal is to build strong fundamentals in deep learning by implementing differ
 
 ---
 
-### 3. CIFAR-10 Classification (Planned)
+### 3. CIFAR-10 Classification (Soon)
 
 * Multi-class image classification
 * Working with colored images
