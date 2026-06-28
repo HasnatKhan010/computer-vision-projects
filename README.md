@@ -1,6 +1,6 @@
-# Computer Vision Projects (PyTorch)
+# Computer Vision Projects (TensorFlow)
 
-This repository contains my learning and practice work in Computer Vision using PyTorch.
+This repository contains my learning and practice work in Computer Vision using TensorFlow and Keras.
 
 The goal is to build strong fundamentals in deep learning by implementing different image classification models step by step.
 
@@ -10,13 +10,13 @@ The goal is to build strong fundamentals in deep learning by implementing differ
 
 ### 1. MNIST Binary Classification (0 vs 1)
 
-* Simple neural network and CNN implementation
+* Simple Neural Network and CNN implementation
 * Dataset: MNIST (only digits 0 and 1)
-* Focus: PyTorch basics, training loop, evaluation
+* Focus: TensorFlow basics, training loop, and evaluation
 
 ---
 
-### 2. MNIST CNN 
+### 2. MNIST CNN
 
 * Full digit classification (0–9)
 * Convolutional Neural Network (CNN)
@@ -24,18 +24,20 @@ The goal is to build strong fundamentals in deep learning by implementing differ
 
 ---
 
-### 3. CIFAR-10 Classification (Soon)
+### 3. Rock-Paper-Scissors Classification
 
-* Multi-class image classification
-* Working with colored images
-* Deeper CNN models
+* Multi-class image classification (Rock, Paper, Scissors)
+* Dataset: Rock-Paper-Scissors
+* Built a CNN for image classification
+* Image preprocessing, normalization, training, and evaluation
 
 ---
 
 ## Tech Stack
 
 * Python
-* PyTorch
+* TensorFlow
+* Keras
 * NumPy
 * Matplotlib
 * Google Colab
@@ -55,4 +57,4 @@ This repository is created for:
 
 ## Notes
 
-This repo will be continuously updated with new projects, experiments, and improvements as I progress in deep learning.
+This repository will be continuously updated with new projects, experiments, and improvements as I progress in deep learning and computer vision.
